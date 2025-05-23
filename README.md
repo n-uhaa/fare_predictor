@@ -3,5 +3,8 @@ This streamlit app predicts New York City Uber fares and visualizes fare distrib
 To use on Mac or Linux download Streamlit and Seaborn:
 ```
 pip install Streamlit
+```
+```
 pip install Seaborn 
-``` 
+```
+
